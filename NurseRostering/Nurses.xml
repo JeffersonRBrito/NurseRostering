@@ -1,0 +1,26 @@
+﻿<Nurses>
+  <Nurse>
+    <Id>NS1</Id>
+    <Name>João</Name>
+  </Nurse>
+  <Nurse>
+    <Id>NS2</Id>
+    <Name>Maria</Name>
+  </Nurse>
+  <Nurse>
+    <Id>NS3</Id>
+    <Name>Gabriel</Name>
+  </Nurse>
+  <Nurse>
+    <Id>NS4</Id>
+    <Name>Fernanda</Name>
+  </Nurse>
+  <Nurse>
+    <Id>NS5</Id>
+    <Name>Paula</Name>
+  </Nurse>
+  <Nurse>
+    <Id>NS6</Id>
+    <Name>Valéria</Name>
+  </Nurse>
+</Nurses>

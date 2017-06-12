@@ -1,0 +1,6 @@
+c:\users\jeff\documents\visual studio 2015\Projects\NurseRostering\NurseRostering\bin\Debug\NurseRostering.exe.config
+c:\users\jeff\documents\visual studio 2015\Projects\NurseRostering\NurseRostering\bin\Debug\NurseRostering.exe
+c:\users\jeff\documents\visual studio 2015\Projects\NurseRostering\NurseRostering\bin\Debug\NurseRostering.pdb
+c:\users\jeff\documents\visual studio 2015\Projects\NurseRostering\NurseRostering\obj\Debug\NurseRostering.csprojResolveAssemblyReference.cache
+c:\users\jeff\documents\visual studio 2015\Projects\NurseRostering\NurseRostering\obj\Debug\NurseRostering.exe
+c:\users\jeff\documents\visual studio 2015\Projects\NurseRostering\NurseRostering\obj\Debug\NurseRostering.pdb
